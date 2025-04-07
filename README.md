@@ -61,11 +61,14 @@ This application is a simple **Todo List Manager** built using **React.js**. It 
 
 Add your screenshots below this section to showcase the UI and functionality.
 
-### 🏠 Homepage with Tasks
+### 🏠 Homepage with EmptyTasks
 ![Homepage with Tasks](Screenshot-1-2.png)
 
 ### ➕ Adding a New Task
 ![Add Task](Screenshot-1-3.png)
+
+### 🏠 Homepage with Tasks
+![Homepage with Tasks](Screenshot-1-4.png)
 
 ### 🗑️ Deleting a Task
 ![Delete Task](Screenshot-1-6.png)
@@ -100,12 +103,7 @@ npm start
 
 ## ✨ Author
 
-Made with ❤️ by **[Rohit Dhumal]**  
-🔗 [Portfolio](#) • [LinkedIn](#) • [GitHub](#)
+Made with ❤️ by **Rohit Dhumal**  
+🔗  [[LinkedIn](https://linkedIn.com/in/rohitdhumal24)](#) • [[GitHub](https://github.com/rohitdhumal-24)](#)
 
----
-
-## 📃 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
