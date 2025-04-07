@@ -59,13 +59,17 @@ This application is a simple **Todo List Manager** built using **React.js**. It 
 
 ## 📸 Final Output Screenshots
 
-> Add your screenshots below this section to showcase the UI and functionality.
+Add your screenshots below this section to showcase the UI and functionality.
 
-| Homepage with Tasks | Empty State |
-|---------------------|-------------|
-| ![screenshot1](screenshots/todo-list.png) | ![screenshot2](screenshots/empty-state.png) |
+### 🏠 Homepage with Tasks
+![Homepage with Tasks](Screenshot-1-2.png)
 
-> 📁 Place your screenshots in the `screenshots/` folder inside the project.
+### ➕ Adding a New Task
+![Add Task](Screenshot-1-3.png)
+
+### 🗑️ Deleting a Task
+![Delete Task](Screenshot-1-6.png)
+
 
 ---
 
